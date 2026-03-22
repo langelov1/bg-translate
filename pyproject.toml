@@ -1,0 +1,9 @@
+[project]
+name = "bg_translations"
+version = "0.0.1"
+description = "Bulgarian translations for ERPNext"
+requires-python = ">=3.10"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.backends._legacy:_Backend"
