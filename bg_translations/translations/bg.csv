@@ -4652,7 +4652,7 @@ Financial Report Row,Ред на финансова справка
 Financial Report Template,Шаблон за финансова справка
 Financial Report Template {0} is disabled,Шаблон за финансова справка {0} е деактивиран
 Financial Report Template {0} not found,Шаблон за финансова справка {0} не е намерен
-Financial Statements,Финансови отчети
+Financial Statements,Фин. отчети
 Financial Year Begins On,Финансовата година започва на
 Financial reports will be generated using GL Entry doctypes (should be enabled if Period Closing Voucher is not posted for all years sequentially or missing) ,"Финансовите справки ще се генерират чрез GL Entry (трябва да бъде активирано, ако ваучер за приключване на период не е осчетоводен последователно за всички години)"
 Find '{0}' in ...,"Намери „{0}"" в ..."
@@ -6030,7 +6030,7 @@ Invoiced Amount (Excl. Tax),Фактурирана сума (без данък)
 Invoiced Qty,Фактурирано количество
 Invoices,Фактури
 Invoices and Payments have been Fetched and Allocated,Фактурите и плащанията са извлечени и разпределени
-Invoicing Features,Функции за фактуриране
+Invoicing Features,Фактуриране
 Inward,Входящ
 Is,Е
 Is Account Payable,Е сметка за задължения
@@ -15164,7 +15164,7 @@ Fetch items based on Default Supplier.,Извличане на артикули 
 Filters applied for {0},Приложени филтри за {0}
 "Filters will be accessible via <code>filters</code>. <br><br>Send output as <code>result = [result]</code>, or for old style <code>data = [columns], [result]</code>","Филтрите ще бъдат достъпни чрез <code>filters</code>. <br><br>Изпратете резултат като <code>result = [result]</code> или в стар стил <code>data = [columns], [result]</code>"
 Finance Manager,Финансов мениджър
-Financial Reports,Финансови отчети
+Financial Reports,Фин. отчети
 Financial Services,Финансови услуги
 "Fiscal Regime is mandatory, kindly set the fiscal regime in the company {0}","Фискалният режим е задължителен, моля задайте го в компания {0}"
 Fiscal Year Start Date and Fiscal Year End Date are already set in Fiscal Year {0},Началната и Крайната дата на Фискалната година вече са зададени във Фискална година {0}
@@ -15394,7 +15394,7 @@ Invalid characters in table name: {0},Невалидни символи в им�
 "Invalid function argument type: {0}. Only strings, numbers, lists, and None are allowed.","Невалиден тип аргумент на функция: {0}. Разрешени са само текст, числа, списъци и None."
 "Invalid lost reason {0}, please create a new lost reason","Невалидна причина за загуба {0}, моля създайте нова"
 Investment Banking,Инвестиционно банкиране
-Invoicing,Функции за фактуриране
+Invoicing,Фактуриране
 Is Billing Contact,Е контакт за фактуриране
 Is Composite Asset,Е съставен актив
 Is Composite Component,Е съставен компонент
@@ -15712,7 +15712,7 @@ Select Workspaces,Изберете работни пространства
 "Set Default Options for all charts on this Dashboard (Ex: \""colors\"": [\""#d1d8dd\"", \""#ff5858\""])","Задай опции по подразбиране за графиките на таблото (Пр: ""colors"": [""#d1d8dd"", ""#ff5858""])"
 "Set non-standard precision for a Float, Currency or Percent field","Задай нестандартна точност за поле от тип дробно число, валута или процент"
 "Setting Events to {0}, since the Employee attached to the below Sales Persons does not have a User ID{1}","Задаване на събития на {0}, тъй като служителят, свързан със следните търговци, няма потребителски идентификатор{1}"
-Share Management,Управление на дялове
+Share Management,Дялове
 "Shipping Address does not have country, which is required for this Shipping Rule","Адресът за доставка няма държава, която е необходима за това правило"
 "Show title in browser window as \""Prefix - title\""","Покажи заглавие в браузъра като „Префикс - заглавие"""
 "Simple Python Expression, Example: <code class=\""language-python\"">status == 'Open' and issue_type == 'Bug'</code>","Прост Python израз, Пример: <code class=""language-python"">status == 'Open' and issue_type == 'Bug'</code>"
@@ -16797,7 +16797,7 @@ Incoming Payment,Входящи плащания
 Accounts Receivable Ageing,Остаряване на вземанията
 Accounts Payable Ageing,Остаряване на задълженията
 Budget Variance,Отклонение от бюджета
-Accounts Setup,Настройка на сметки
+Accounts Setup,Настройки
 Consolidated Report,Консолидиран отчет
 Customer Ledger,Клиентска главна книга
 Supplier Ledger,Доставчикова главна книга
