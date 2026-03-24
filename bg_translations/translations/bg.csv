@@ -16893,3 +16893,890 @@ Create Subcontracting Purchase Order,Създаване на поръчка за
 Create Subcontracting Order,Създаване на поръчка за подизпълнение
 UTM,UTM
 Average Order Value,Средна стойност на поръчка
+(New),(Нов)
+(No Title),(Без заглавие)
+"@John, can you please check this?","@John, можеш ли да провериш това?"
+A lead sync source is already enabled for this Facebook Lead Form!,Източник за синхронизация на потенциални клиенти вече е активиран за тази Facebook Lead форма!
+A valid call log is required.,Необходим е валиден запис на обаждане.
+API key is required,API ключът е задължителен
+Accept,Приеми
+Accept Call,Приеми обаждане
+Access Denied,Достъпът е отказан
+Access Key for {0}. Required for fetching exchange rates.,Ключ за достъп за {0}. Необходим за извличане на обменни курсове.
+Access token is required,Токенът за достъп е задължителен
+Account Info & Security,Информация за акаунта и сигурност
+Account name is required,Името на акаунта е задължително
+Add Account,Добави акаунт
+Add Assignee,Добави изпълнител
+Add Attendee,Добави участник
+Add Chart,Добави диаграма
+Add Condition,Добави условие
+Add Condition Group,Добави група условия
+Add Description,Добави описание
+Add Description.,Добави описание.
+Add Email,Добави Email
+Add Existing User,Добави съществуващ потребител
+Add Field,Добави поле
+Add Lead or Deal,Добави потенциален клиент или сделка
+Add Location,Добави местоположение
+Add Mobile Number...,Добави мобилен номер...
+Add Note,Добави бележка
+Add Notification,Добави известие
+Add Organization...,Добави организация...
+Add Sample Data,Добави примерни данни
+Add Section,Добави секция
+Add Sort,Добави сортиране
+Add Tab,Добави раздел
+Add Task,Добави задача
+Add a Condition,Добави условие
+Add a Custom Condition,Добави персонализирано условие
+Add a Task,Добави задача
+Add a name for your source,Добави име за източника
+Add description...,Добави описание...
+Add existing system users to this CRM. Assign them a role to grant access with their current credentials.,"Добави съществуващи системни потребители към този CRM. Задай им роля, за да получат достъп с текущите си данни за вход."
+Add one to get started.,"Добави един, за да започнеш."
+Add time targets around support milestones like first response,"Добави времеви цели около етапи на поддръжката, като първи отговор"
+"Add, edit, and manage email templates for various CRM communications","Добави, редактирай и управлявай Email шаблони за различни CRM комуникации"
+"Add, edit, and manage sources for automatic lead syncing to your CRM","Добави, редактирай и управлявай източници за автоматично синхронизиране на потенциални клиенти към вашия CRM"
+Admin,Администратор
+"Agent is unavailable to take the call, please call after some time.","Агентът не е наличен за обаждане, моля опитайте по-късно."
+All Day Event Notifications,Известия за целодневни събития
+All available priorities have already been added,Всички налични приоритети вече са добавени
+An Error Occurred,Възникна грешка
+An error occurred,Възникна грешка
+An error occurred while updating the document,Възникна грешка при актуализиране на документа
+And,И
+Annual Revenue should be a number,Годишният приход трябва да бъде число
+Any failed lead syncs will show up here,Всички неуспешни синхронизации на потенциални клиенти ще се покажат тук
+Appearance,Външен вид
+Appears in the left sidebar. Recommended size is 32x32 px in PNG or SVG,Показва се в лявата странична лента. Препоръчителен размер е 32x32 px в PNG или SVG
+Appears next to the title in your browser tab. Recommended size is 32x32 px in PNG or ICO,Показва се до заглавието в раздела на браузъра. Препоръчителен размер е 32x32 px в PNG или ICO
+Are you sure you want to clear assignment for {0} item(s)?,"Сигурни ли сте, че искате да премахнете назначението за {0} елемент(а)?"
+Are you sure you want to clear demo data? This action cannot be undone.,"Сигурни ли сте, че искате да изтриете демо данните? Това действие не може да бъде отменено."
+Are you sure you want to convert {0} lead(s) to deal(s)?,"Сигурни ли сте, че искате да конвертирате {0} потенциален(и) клиент(и) в сделка(и)?"
+"Are you sure you want to delete ""{0}"" view?","Сигурни ли сте, че искате да изтриете изглед ""{0}""?"
+Are you sure you want to delete this attachment?,"Сигурни ли сте, че искате да изтриете този прикачен файл?"
+Are you sure you want to delete this contact?,"Сигурни ли сте, че искате да изтриете този контакт?"
+Are you sure you want to delete this event?,"Сигурни ли сте, че искате да изтриете това събитие?"
+Are you sure you want to delete this organization?,"Сигурни ли сте, че искате да изтриете тази организация?"
+Are you sure you want to delete this task?,"Сигурни ли сте, че искате да изтриете тази задача?"
+Are you sure you want to delete {0} - {1}?,"Сигурни ли сте, че искате да изтриете {0} - {1}?"
+Are you sure you want to delete {0} items?,"Сигурни ли сте, че искате да изтриете {0} елемента?"
+Are you sure you want to delete {0} linked doc(s)?,"Сигурни ли сте, че искате да изтриете {0} свързан(и) документ(а)?"
+Are you sure you want to delete {0} linked item(s)?,"Сигурни ли сте, че искате да изтриете {0} свързан(и) елемент(а)?"
+Are you sure you want to discard unsaved changes to this event?,"Сигурни ли сте, че искате да отхвърлите незаписаните промени на това събитие?"
+Are you sure you want to go back? Unsaved changes will be lost.,"Сигурни ли сте, че искате да се върнете назад? Незаписаните промени ще бъдат загубени."
+Are you sure you want to login to your Frappe Cloud dashboard?,"Сигурни ли сте, че искате да влезете в таблото на Frappe Cloud?"
+Are you sure you want to make this attachment {0}?,"Сигурни ли сте, че искате да направите този прикачен файл {0}?"
+Are you sure you want to reset 'Create Quotation from CRM Deal' Form Script?,"Сигурни ли сте, че искате да нулирате скрипта на формата ""Създаване на оферта от CRM сделка""?"
+Are you sure you want to set the currency as {0}? This cannot be changed later.,"Сигурни ли сте, че искате да зададете валутата като {0}? Това не може да бъде променено по-късно."
+Are you sure you want to unlink {0} linked doc(s)?,"Сигурни ли сте, че искате да премахнете връзката на {0} свързан(и) документ(а)?"
+Are you sure you want to unlink {0} linked item(s)?,"Сигурни ли сте, че искате да премахнете връзката на {0} свързан(и) елемент(а)?"
+"Ask your manager to set up the Exchange Rate Provider, as default provider does not support currency conversion for {0} to {1}.","Помолете вашия мениджър да настрои доставчика на обменни курсове, тъй като доставчикът по подразбиране не поддържа конвертиране на валута от {0} към {1}."
+Assign Condition is required,Условието за назначаване е задължително
+Assign Conditions are invalid,Условията за назначаване са невалидни
+Assign To Me,Назначи на мен
+Assignees,Изпълнители
+Assignment Cleared Successfully,Назначението е премахнато успешно
+Assignment Condition,Условие за назначаване
+Assignment Days are required,Дните за назначаване са задължителни
+Assignment Rule Created,Правилото за назначаване е създадено
+Assignment Rule Deleted,Правилото за назначаване е изтрито
+Assignment Rule Duplicated,Правилото за назначаване е дублирано
+Assignment Rule Updated,Правилото за назначаване е актуализирано
+Assignment Rule {0} Updated,Правило за назначаване {0} е актуализирано
+Assignment Schedule,График за назначаване
+Assignment conditions,Условия за назначаване
+"Assignment conditions are invalid or corrupt, recreate the conditions.","Условията за назначаване са невалидни или повредени, създайте ги отново."
+At least one field is required,Необходимо е поне едно поле
+At least one priority is required,Необходим е поне един приоритет
+"At least one valid Workday with Workday, Start Time, and End Time is required","Необходим е поне един валиден работен ден с работен ден, начален час и краен час"
+Attach a File,Прикачи файл
+Attendees,Участници
+Attending status updated,Статусът на присъствие е актуализиран
+Auto Update Expected Deal Value,Автоматично обновяване на очакваната стойност на сделката
+Auto Update of Expected Deal Value disabled,Автоматичното обновяване на очакваната стойност на сделката е деактивирано
+Auto Update of Expected Deal Value enabled,Автоматичното обновяване на очакваната стойност на сделката е активирано
+Auto update communication status,Автоматично обновяване на статуса на комуникацията
+Auto-assign leads/deals to the right sales user based on predefined conditions,Автоматично назначаване на потенциални клиенти/сделки на правилния търговец въз основа на предварително зададени условия
+"Automatically update ""Expected Deal Value"" based on the total value of associated products in a deal","Автоматично обновяване на ""Очаквана стойност на сделката"" въз основа на общата стойност на свързаните продукти в сделката"
+Automatically update the Communication status for Leads & Deals when SLA is enabled. Set status to “Open” on new communication and “Replied” when a response is received,"Автоматично обновяване на статуса на комуникацията за потенциални клиенти и сделки, когато SLA е активирано. Задава статус “Отворен” при нова комуникация и “Отговорен” при получен отговор"
+Automation & Rules,Автоматизация и правила
+Average deal value of non won/lost deals,"Средна стойност на сделките, които не са спечелени/загубени"
+Average deal value of ongoing & won deals,Средна стойност на текущи и спечелени сделки
+Average deal value of won deals,Средна стойност на спечелени сделки
+Average time taken from deal creation to deal closure,Средно време от създаване на сделката до нейното приключване
+Average time taken from lead creation to deal closure,Средно време от създаване на потенциален клиент до приключване на сделката
+Avg Deal Value,Средна стойност на сделка
+Avg Ongoing Deal Value,Средна стойност на текуща сделка
+Avg Time to Close a Deal,Средно време за приключване на сделка
+Avg Time to Close a Lead,Средно време за приключване на потенциален клиент
+Avg Won Deal Value,Средна стойност на спечелена сделка
+Avg. deal value,Средна стойност на сделка
+Avg. ongoing deal value,Средна стойност на текуща сделка
+Avg. time to close a deal,Средно време за приключване на сделка
+Avg. time to close a lead,Средно време за приключване на потенциален клиент
+Avg. won deal value,Средна стойност на спечелена сделка
+Axis Chart,Осева диаграма
+Back to All Logs,Обратно към всички логове
+Back to File Upload,Обратно към качване на файл
+Background Sync Frequency,Честота на фоново синхронизиране
+CRM Dashboard,CRM Табло
+Call log not found,Записът на обаждането не е намерен
+Call using {0},Обаждане чрез {0}
+Call with John Doe,Обаждане с John Doe
+Calling Medium,Канал за обаждане
+Calling...,Обаждане...
+Calls,Обаждания
+Can't retry sync for this without source!,Не може да се повтори синхронизацията без източник!
+Cannot assign this role,Тази роля не може да бъде назначена
+Cannot change role of user with Admin access,Не може да се промени ролята на потребител с администраторски достъп
+Cannot delete standard items {0},Стандартните елементи {0} не могат да бъдат изтрити
+Cannot enable rule without adding users in it,Правилото не може да бъде активирано без добавяне на потребители в него
+Cannot invite for this role,Не може да се изпрати покана за тази роля
+Capturing Leads,Улавяне на потенциални клиенти
+Change Photo,Промени снимка
+Change Status,Промени статус
+Change language of the application.,Промени езика на приложението.
+Change timezone of the application.,Промени часовата зона на приложението.
+Change your account password for security.,Променете паролата на акаунта си за сигурност.
+Choose Existing,Избери съществуващ
+Choose Existing Contact,Избери съществуващ контакт
+Choose Existing Organization,Избери съществуваща организация
+Choose how long this SLA policy will be active.,Изберете колко дълго тази SLA политика ще бъде активна.
+Choose how you want to use the application by setting your preferences.,"Изберете как искате да използвате приложението, като зададете предпочитанията си."
+Choose how {0} are assigned among salespeople.,Изберете как {0} се разпределят между търговците.
+Choose how {0} are assigned among the selected assignees.,Изберете как {0} се разпределят между избраните изпълнители.
+Choose the Email Service Provider you want to configure.,"Изберете доставчика на Email услуги, който искате да конфигурирате."
+Choose the days of the week when this rule should be active.,"Изберете дните от седмицата, когато това правило трябва да е активно."
+Choose which leads/deals are affected by this policy.,Изберете кои потенциални клиенти/сделки са засегнати от тази политика.
+Choose which {0} are affected by this assignment rule.,Изберете кои {0} са засегнати от това правило за назначаване.
+Choose which {0} are affected by this un-assignment rule.,Изберете кои {0} са засегнати от това правило за премахване на назначение.
+Clear All Filters,Изчисти всички филтри
+Clear Sort,Изчисти сортирането
+Close Panel,Затвори панел
+Column Field,Поле на колона
+Comment sent!,Коментарът е изпратен!
+Common reasons for losing deals,Често срещани причини за загуба на сделки
+Configure,Конфигурирай
+Configure Telephony Settings for your CRM,Конфигурирайте настройките за телефония на вашия CRM
+Configure actions that appear on the home dropdown,"Конфигурирайте действията, които се показват в падащото меню на началната страница"
+Configure forecasting feature to help predict sales performance and growth,"Конфигурирайте функцията за прогнозиране, за да помогне за предвиждане на продажбите и растежа"
+Configure general settings for your application,Конфигурирайте общите настройки на вашето приложение
+Configure the Currency and Exchange Rate Provider for your CRM,Конфигурирайте доставчика на валута и обменни курсове за вашия CRM
+Configure the Exchange Rate Provider for your CRM,Конфигурирайте доставчика на обменни курсове за вашия CRM
+"Configure your Brand Name, Logo, and Favicon","Конфигурирайте името на марката, логото и иконата на сайта"
+Configure your Calendar Settings like Default View and Event Notifications here,"Конфигурирайте настройките на календара, като изглед по подразбиране и известия за събития тук"
+Configure your Exotel Telephony Integration Settings here,Конфигурирайте настройките за интеграция с Exotel телефония тук
+Configure your Twilio Telephony Integration Settings here,Конфигурирайте настройките за интеграция с Twilio телефония тук
+Confirm Delete,Потвърди изтриване
+Confirm Overwrite,Потвърди презаписване
+Confirm {0},Потвърди {0}
+Connect your Email,Свържи своя Email
+Contact Added,Контактът е добавен
+Contact Already Added,Контактът вече е добавен
+Contact Already Exists,Контактът вече съществува
+Contact Image Updated,Изображението на контакта е актуализирано
+Contact Removed,Контактът е премахнат
+Contact Support,Свържете се с поддръжката
+Contact Updated,Контактът е актуализиран
+Contact already exists with {0},Контакт вече съществува с {0}
+Contact image updated,Изображението на контакта е актуализирано
+Content is required,Съдържанието е задължително
+Convert,Конвертирай
+Convert to Deal,Конвертирай в сделка
+Converted Successfully,Конвертирано успешно
+Copied to Clipboard,Копирано в клипборда
+Create Deal,Създай сделка
+Create Event,Създай събитие
+Create Lead from Incoming Emails,Създай потенциален клиент от входящи Email-и
+Create New Holiday List,Създай нов списък с празници
+Create Note,Създай бележка
+Create an Event,Създай събитие
+Currency & Exchange Rate,Валута и обменен курс
+Currency set as {0} successfully,Валутата е зададена като {0} успешно
+Current pipeline distribution,Текущо разпределение на фунията за продажби
+Custom Actions,Персонализирани действия
+Custom Branding,Персонализирана марка
+Custom Fields,Персонализирани полета
+Custom List Actions,Персонализирани действия в списък
+Custom Range,Персонализиран диапазон
+Custom Statuses,Персонализирани статуси
+Customer Created Successfully,Клиентът е създаден успешно
+"Daily performance of leads, deals, and wins","Дневно представяне на потенциални клиенти, сделки и печалби"
+"Dashboard number cards & charts will show currency in the selected format. Once set, cannot be edited.","Числовите карти и диаграмите на таблото ще показват валутата в избрания формат. Веднъж зададен, не може да бъде променен."
+Date & Time,Дата и час
+Deal,Сделка
+Deal generation channel analysis,Анализ на каналите за генериране на сделки
+Deal value,Стойност на сделката
+Deals by Ongoing & Won Stage,Сделки по текущ и спечелен етап
+Deals by Salesperson,Сделки по търговски представител
+Deals by Source,Сделки по източник
+Deals by Stage,Сделки по етап
+Deals by Territory,Сделки по територия
+Deals by ongoing & won stage,Сделки по текущ и спечелен етап
+Deals by salesperson,Сделки по търговски представител
+Deals by source,Сделки по източник
+Deals by stage,Сделки по етап
+Deals by territory,Сделки по територия
+Declined,Отхвърлен
+Default Calling Medium for Logged In User,Средство за обаждане по подразбиране за влезлия потребител
+Default Sending & Inbox,Изпращане и входяща поща по подразбиране
+Default Service Level Agreement already exists for {0},Споразумение за ниво на обслужване по подразбиране вече съществува за {0}
+Default calling medium set successfully to {0},Средството за обаждане по подразбиране е зададено успешно на {0}
+"Default statuses, custom fields and layouts restored successfully.","Статусите по подразбиране, персонализираните полета и оформленията са възстановени успешно."
+Delete & Restore,Изтрий и възстанови
+Delete Attachment,Изтрий прикачен файл
+Delete Contact,Изтрий контакт
+Delete Event,Изтрий събитие
+Delete Invitation,Изтрий покана
+Delete Linked Item,Изтрий свързан елемент
+Delete Organization,Изтрий организация
+Delete Task,Изтрий задача
+Delete View,Изтрий изглед
+Delete or unlink linked documents,Изтрий или премахни връзката на свързаните документи
+Delete or unlink these linked documents before deleting this document,Изтрийте или премахнете връзката на тези свързани документи преди изтриване на този документ
+Delete {0} Item(s),Изтрий {0} елемент(а)
+Delete {0} items,Изтрий {0} елемента
+Deleting note...,Изтриване на бележка...
+Description is required,Описанието е задължително
+Device,Устройство
+Dialog,Диалог
+Discard Changes,Отхвърли промените
+Discard Unsaved Changes?,Отхвърляне на незапазените промени?
+Doctype is required,Типът документ е задължителен
+Document Not Found,Документът не е намерен
+Document created successfully,Документът е създаден успешно
+Document does not exist,Документът не съществува
+Document not found,Документът не е намерен
+Document updated successfully,Документът е актуализиран успешно
+Donut Chart,Кръгова диаграма
+Drag & Drop files here or upload from,Плъзнете и пуснете файлове тук или качете от
+Duplicate Assignment Rule,Дублирано правило за възлагане
+Duplicate Event,Дублирано събитие
+Duplicate SLA Policy,Дублирана SLA политика
+Duplicate Template,Дублиран шаблон
+Duplicate View,Дублиран изглед
+Duplicate Workday found: {0}. Each Workday should be unique.,Намерен е дублиран работен ден: {0}. Всеки работен ден трябва да бъде уникален.
+Duplicate an Event,Дублирай събитие
+ERPNext Settings Updated,Настройките на ERPNext са актуализирани
+ERPNext is not installed in the current site,ERPNext не е инсталиран на текущия сайт
+ERPNext is not integrated with the CRM,ERPNext не е интегриран с CRM
+Edit Call Log,Редактирай журнал на обажданията
+Edit Data Fields Layout,Редактирай оформлението на полетата за данни
+Edit Event,Редактирай събитие
+Edit Field Layout,Редактирай оформлението на полетата
+Edit Fields Layout,Редактирай оформлението на полетата
+Edit Grid Fields,Редактирай полетата на таблицата
+Edit Grid Fields Layout,Редактирай оформлението на полетата на таблицата
+Edit Grid Row Fields Layout,Редактирай оформлението на полетата на реда на таблицата
+Edit Quick Entry Layout,Редактирай оформлението за бърз запис
+Edit Response & Resolution,Редактирай отговор и решение
+Edit Row,Редактирай ред
+Edit Task,Редактирай задача
+Edit View,Редактирай изглед
+Edit Workday,Редактирай работен ден
+Edit an Event,Редактирай събитие
+Edit deal's mandatory fields layout,Редактирай оформлението на задължителните полета на сделката
+Editing Event,Редактиране на събитие
+Editing Row {0},Редактиране на ред {0}
+Email Account created successfully,Email акаунтът е създаден успешно
+Email Account updated successfully,Email акаунтът е актуализиран успешно
+Email Already Exists,Email адресът вече съществува
+Email Communication,Email комуникация
+Email From Lead,Email от потенциален клиент
+Email ID is required,Email адресът е задължителен
+Email Templates,Email шаблони
+Email already exists,Email адресът вече съществува
+Email sent!,Email-ът е изпратен!
+Email settings updated successfully,Email настройките са актуализирани успешно
+Emails & Signature,Email-и и подпис
+Empty - Choose a field to sort by,Празно - Изберете поле за сортиране
+Enable Exotel integration to make and receive calls directly from your CRM,"Активирайте интеграцията с Exotel, за да извършвате и приемате обаждания директно от вашия CRM"
+Enable Forecasting,Активирай прогнозиране
+Enable Twilio integration to make and receive calls directly from your CRM,"Активирайте интеграцията с Twilio, за да извършвате и приемате обаждания директно от вашия CRM"
+Enable call recording for incoming and outgoing calls,Активирай запис на входящи и изходящи обаждания
+End Date cannot be before start date,Крайната дата не може да бъде преди началната дата
+End Time Should Be After Start Time,Крайното време трябва да бъде след началното време
+End Time is required,Крайното време е задължително
+End Time must be after Start Time,Крайното време трябва да бъде след началното време
+End Time must be after Start Time for: {0},Крайното време трябва да бъде след началното време за: {0}
+Enter Access Key,Въведете ключ за достъп
+Enter Access Token,Въведете токен за достъп
+Enter Brand Name,Въведете име на марката
+Enter Exotel Number,Въведете номер на Exotel
+Enter Personal Mobile No.,Въведете личен мобилен номер
+Enter Source Name,Въведете име на източника
+Enter Twilio Number,Въведете номер на Twilio
+Enter your Facebook Access Token,Въведете вашия Facebook токен за достъп
+Enter your personal mobile number used by Exotel to make calls,"Въведете личния си мобилен номер, използван от Exotel за извършване на обаждания"
+Enter {0},Въведете {0}
+Error Syncing Lead,Грешка при синхронизиране на потенциален клиент
+Error converting to deal: {0},Грешка при конвертиране в сделка: {0}
+Error creating Lead Sync Source,Грешка при създаване на източник за синхронизиране на потенциални клиенти
+Error creating lead: {0},Грешка при създаване на потенциален клиент: {0}
+Error occurred,Възникна грешка
+Error syncing leads,Грешка при синхронизиране на потенциални клиенти
+Error updating Lead Sync Source,Грешка при актуализиране на източник за синхронизиране на потенциални клиенти
+Error updating field,Грешка при актуализиране на поле
+"Error while creating custom field in ERPNext, check error log for more details","Грешка при създаване на персонализирано поле в ERPNext, проверете журнала за грешки за повече подробности"
+"Error while creating customer in ERPNext, check error log for more details","Грешка при създаване на клиент в ERPNext, проверете журнала за грешки за повече подробности"
+"Error while creating prospect in ERPNext, check error log for more details","Грешка при създаване на потенциален клиент в ERPNext, проверете журнала за грешки за повече подробности"
+"Error while fetching customer in ERPNext, check error log for more details","Грешка при извличане на клиент от ERPNext, проверете журнала за грешки за повече подробности"
+Event Details,Детайли за събитието
+Event ID is required,Идентификаторът на събитието е задължителен
+Event Title,Заглавие на събитието
+Event created successfully,Събитието е създадено успешно
+Event deleted successfully,Събитието е изтрито успешно
+Exchange Rate Provider,Доставчик на обменни курсове
+Exotel Exception,Грешка в Exotel
+Exotel Integration Disabled,Интеграцията с Exotel е деактивирана
+Exotel Number Missing,Липсващ номер на Exotel
+Exotel Number {0} is not valid,Номерът на Exotel {0} не е валиден
+Exotel Settings,Настройки на Exotel
+Expected closure date is required.,Очакваната дата на приключване е задължителна.
+Expected deal value is required.,Очакваната стойност на сделката е задължителна.
+Export all {0} record(s),Експортирай всички {0} запис(а)
+FROM,ОТ
+Failed to Add Users,Неуспешно добавяне на потребители
+Failed to add reaction to the message,Неуспешно добавяне на реакция към съобщението
+Failed to capture Twilio recording,Неуспешно записване на Twilio запис
+"Failed to create Email Account, Invalid credentials","Неуспешно създаване на Email акаунт, невалидни идентификационни данни"
+Failed to create template,Неуспешно създаване на шаблон
+Failed to delete lead sync source,Неуспешно изтриване на източник за синхронизиране на потенциални клиенти
+Failed to delete note,Неуспешно изтриване на бележка
+Failed to delete template,Неуспешно изтриване на шаблон
+Failed to fetch exchange rate from {0} to {1} on {2}. Please check your internet connection or try again later.,"Неуспешно извличане на обменен курс от {0} към {1} на {2}. Моля, проверете интернет връзката си или опитайте отново по-късно."
+Failed to load form controller: {0},Неуспешно зареждане на контролера на формата: {0}
+Failed to rename template,Неуспешно преименуване на шаблон
+Failed to save workday: {0},Неуспешно запазване на работен ден: {0}
+Failed to send WhatsApp message,Неуспешно изпращане на WhatsApp съобщение
+Failed to send WhatsApp template,Неуспешно изпращане на WhatsApp шаблон
+Failed to send comment!,Неуспешно изпращане на коментар!
+Failed to send email!,Неуспешно изпращане на email!
+"Failed to update Email Account, Invalid credentials","Неуспешно актуализиране на Email акаунт, невалидни идентификационни данни"
+Failed to update Twilio call status,Неуспешно актуализиране на статуса на обаждане в Twilio
+Failed to update attending status,Неуспешно актуализиране на статуса на присъствие
+Failed to update source,Неуспешно актуализиране на източника
+Failed to update template,Неуспешно актуализиране на шаблон
+Failure Logs,Журнали за грешки
+Fields Order,Подредба на полетата
+First Name is mandatory,Собственото име е задължително
+"For all-day events, <b>set a time</b> to send reminders before the event starts","За целодневни събития, <b>задайте час</b> за изпращане на напомняния преди началото на събитието"
+Forecasted Revenue,Прогнозирани приходи
+Forecasted revenue,Прогнозирани приходи
+Forecasting disabled successfully,Прогнозирането е деактивирано успешно
+Forecasting enabled successfully,Прогнозирането е активирано успешно
+Form Script updated successfully,Скриптът на формата е актуализиран успешно
+Frappe CRM mobile,Frappe CRM мобилно приложение
+Funnel Conversion,Конверсия на фунията
+Funnel conversion,Конверсия на фунията
+Geographic distribution of deals and revenue,Географско разпределение на сделките и приходите
+GitHub Repository,GitHub хранилище
+Go to Invite Page,Отиди на страницата за покани
+Go to Website,Отиди на уебсайта
+Going?,Ще присъствате?
+Group By:,Групирай по:
+Hang Up,Затвори
+Hide Password,Скрий парола
+Hide Recording,Скрий запис
+Home Actions,Начални действия
+"I understand, Add Conditions","Разбирам, добави условия"
+"If enabled, a lead will be automatically created when an incoming email is received from an unknown contact.","Ако е активирано, потенциален клиент ще бъде автоматично създаден при получаване на входящ email от непознат контакт."
+"If enabled, all outgoing emails will be sent from this account. Note: Only one account can be default outgoing.","Ако е активирано, всички изходящи email-и ще бъдат изпращани от този акаунт. Забележка: Само един акаунт може да бъде по подразбиране за изходяща поща."
+"If enabled, all replies to your company (eg: replies@yourcompany.com) will come to this account. Note: Only one account can be default incoming.","Ако е активирано, всички отговори до вашата компания (напр.: replies@yourcompany.com) ще идват в този акаунт. Забележка: Само един акаунт може да бъде по подразбиране за входяща поща."
+"If enabled, emails will be pulled from this account.","Ако е активирано, email-ите ще бъдат изтегляни от този акаунт."
+"If enabled, outgoing emails can be sent from this account.","Ако е активирано, изходящите email-и могат да бъдат изпращани от този акаунт."
+In less than a minute,За по-малко от минута
+Inbound Call,Входящо обаждане
+Incoming call...,Входящо обаждане...
+Initiating call...,Иницииране на обаждане...
+Insert Email Template,Вмъкни Email шаблон
+Insert Emoji,Вмъкни емоджи
+Integration,Интеграция
+Integration Not Enabled,Интеграцията не е активирана
+Invalid Account SID or Auth Token.,Невалиден SID на акаунта или токен за удостоверяване.
+Invalid Email Address,Невалиден Email адрес
+Invalid Email or Password,Невалиден Email или парола
+Invalid Exotel Number,Невалиден номер на Exotel
+Invalid Start Or End Time,Невалидно начално или крайно време
+Invalid Twilio account,Невалиден Twilio акаунт
+Invalid Twilio application,Невалидно Twilio приложение
+Invalid Website URL,Невалиден URL на уебсайта
+Invalid access token provided for Facebook.,Предоставен е невалиден токен за достъп за Facebook.
+Invalid chart name,Невалидно име на диаграма
+Invalid credentials,Невалидни идентификационни данни
+Invalid email ID,Невалиден Email адрес
+Invalid email address,Невалиден Email адрес
+Invalid field,Невалидно поле
+"Invalid fields, check if all are filled in and values are correct.","Невалидни полета, проверете дали всички са попълнени и стойностите са правилни."
+Invalid fields: {0},Невалидни полета: {0}
+Invalid lead details supplied.,Предоставени са невалидни данни за потенциален клиент.
+Invalid or expired key,Невалиден или изтекъл ключ
+Invalid page or not permitted to access,Невалидна страница или нямате право на достъп
+Invitations sent successfully,Поканите са изпратени успешно
+Invite Agent,Покани агент
+Invite As,Покани като
+Invite By Email,Покани по Email
+Invite New User,Покани нов потребител
+Invite User,Покани потребител
+Invite Users,Покани потребители
+Invite users to access CRM. Specify their roles to control access and permissions,Поканете потребители за достъп до CRM. Посочете техните роли за управление на достъпа и разрешенията
+It appears that there are currently no {0} available. You can create more {0} by using the Create button.,"Изглежда, че в момента няма налични {0}. Можете да създадете повече {0}, като използвате бутона Създаване."
+Items are required,Елементите са задължителни
+Items must be a list,Елементите трябва да бъдат списък
+Kanban settings,Настройки на Канбан
+Language & Time,Език и час
+Last 60 Days,Последните 60 дни
+Last Modified,Последна промяна
+Last Synced At,Последно синхронизиране
+Last user assigned by this rule,"Последен потребител, назначен по това правило"
+Lead Data,Данни за потенциален клиент
+Lead Sync Source created successfully,Източникът за синхронизация на потенциални клиенти е създаден успешно
+Lead Syncing,Синхронизация на потенциални клиенти
+Lead from call {0},Потенциален клиент от обаждане {0}
+Lead generation channel analysis,Анализ на канали за генериране на потенциални клиенти
+Lead sync initiated.,Синхронизацията на потенциални клиенти е стартирана.
+Lead sync source deleted successfully,Източникът за синхронизация на потенциални клиенти е изтрит успешно
+Lead to deal conversion pipeline,Фуния за конвертиране на потенциални клиенти в сделки
+Leads by Source,Потенциални клиенти по източник
+Leads by source,Потенциални клиенти по източник
+Learn about conditions,Научете повече за условията
+Listen,Слушай
+Login to Frappe Cloud?,Вход във Frappe Cloud?
+Login with Different Account,Вход с друг акаунт
+Lost Deal Reasons,Причини за загубени сделки
+Lost Notes,Бележки за загуба
+"Lost Notes are required when Lost Reason is ""Other""","Бележки за загуба са задължителни, когато причината за загуба е ""Друго"""
+Lost Reason is required,Причината за загуба е задължителна
+Lost deal reasons,Причини за загубени сделки
+Make Call,Обади се
+Make Private,Направи лично
+Make Public,Направи публично
+Make a Call,Обади се
+Make attachment {0},Направи прикачен файл {0}
+Make {0} as default calling medium,Задай {0} като средство за обаждания по подразбиране
+"Makes ""Expected Closure Date"" and ""Expected Deal Value"" mandatory for deal value forecasting","Прави ""Очаквана дата на приключване"" и ""Очаквана стойност на сделката"" задължителни за прогнозиране на стойността на сделките"
+"Manage CRM users by adding or inviting them, and assign roles to control their access and permissions",Управлявайте CRM потребителите чрез добавяне или покана и задавайте роли за контрол на достъпа и правата им
+Manage your account emails and email signature for communication.,Управлявайте имейлите на акаунта си и имейл подписа за комуникация.
+Manage your email accounts to send and receive emails directly from CRM. You can add multiple accounts and set one as default for incoming and outgoing emails.,Управлявайте имейл акаунтите си за изпращане и получаване на имейли директно от CRM. Можете да добавите няколко акаунта и да зададете един по подразбиране за входящи и изходящи имейли.
+Manage your email signature,Управлявайте имейл подписа си
+Manage your profile & login information.,Управлявайте профила и данните си за вход.
+Manage your service level agreement policies,Управлявайте политиките за споразумение за ниво на обслужване
+Mandatory field error: {0},Грешка в задължително поле: {0}
+Mandatory field(s) {0} must be mapped,Задължителното(ите) поле(та) {0} трябва да бъде(ат) съпоставено(и)
+Mandatory fields required: {0},Задължителни полета: {0}
+Minimize,Минимизирай
+Missed Call,Пропуснато обаждане
+Missing mandatory fields: {0},Липсващи задължителни полета: {0}
+Mobile App Installation,Инсталиране на мобилно приложение
+Mobile No.,Мобилен номер
+Mobile No. should be a number,Мобилният номер трябва да бъде число
+Mobile Number Missing,Липсва мобилен номер
+Move to Next Section,Премести в следващата секция
+Move to Next Tab,Премести в следващия раздел
+Move to Previous Section,Премести в предишната секция
+Move to Previous Tab,Премести в предишния раздел
+My Open Deals,Моите отворени сделки
+Name is required,Името е задължително
+Nested Conditions,Вложени условия
+New Assignment Rule,Ново правило за възлагане
+New Assignment Rule Name,Име на ново правило за възлагане
+New Comment,Нов коментар
+New Lead Sync Source,Нов източник за синхронизация на потенциални клиенти
+New Message,Ново съобщение
+New Organization,Нова организация
+New SLA Policy,Нова SLA политика
+New SLA Policy Name,Име на нова SLA политика
+New Section,Нова секция
+New Tab,Нов раздел
+New Template,Нов шаблон
+New contact will be created based on the person's details,Нов контакт ще бъде създаден на базата на данните за лицето
+New organization will be created based on the data in details section,Нова организация ще бъде създадена на базата на данните в секцията с детайли
+No Contacts Added,Няма добавени контакти
+No Details Added,Няма добавени детайли
+No Events Scheduled,Няма насрочени събития
+No Failure Logs Found,Не са намерени логове за грешки
+No Mobile Number Set,Не е зададен мобилен номер
+No New Notifications,Няма нови известия
+No Primary Contact Set,Не е зададен основен контакт
+No Templates Found,Не са намерени шаблони
+No Title,Без заглавие
+No Users Found,Не са намерени потребители
+No Website Found,Не е намерен уебсайт
+No events coming up. Create a new one to keep things on track.,"Няма предстоящи събития. Създайте ново, за да поддържате нещата в ход."
+No results found,Няма намерени резултати
+No {0} available,Няма налични {0}
+Normal,Нормален
+Not Synced,Не е синхронизиран
+Not allowed to add contact to Deal,Не е позволено добавяне на контакт към сделка
+Not allowed to convert Lead to Deal,Не е позволено конвертиране на потенциален клиент в сделка
+Not allowed to remove contact from Deal,Не е позволено премахване на контакт от сделка
+Not allowed to set primary contact for Deal,Не е позволено задаване на основен контакт за сделка
+Not equals,Не е равно на
+Not implemented yet!,Все още не е имплементирано!
+Not in,Не е в
+Not like,Не е като
+Not permitted to access reference document {0} {1}.,Нямате права за достъп до референтен документ {0} {1}.
+Not permitted to access the referenced WhatsApp message.,Нямате права за достъп до посоченото WhatsApp съобщение.
+Note deleted,Бележката е изтрита
+Number Chart,Числова диаграма
+Number of deals,Брой сделки
+Number of deals and total value per salesperson,Брой сделки и обща стойност по търговски представител
+Old Condition,Старо условие
+Old Conditions,Стари условия
+Ongoing Deals,Текущи сделки
+Ongoing deals,Текущи сделки
+Only System Managers can assign the Sales Manager role,Само системни администратори могат да задават ролята Мениджър продажби
+Only System Managers can assign the System Manager role,Само системни администратори могат да задават ролята Системен администратор
+Only System Managers can modify other System Managers,Само системни администратори могат да променят други системни администратори
+Only image files are allowed,Разрешени са само файлове с изображения
+Only sales users can access WhatsApp features.,Само потребители с роля Продажби имат достъп до WhatsApp функциите.
+Open Deal,Отворена сделка
+Open Lead,Отворен потенциален клиент
+Open Nested Conditions,Отвори вложени условия
+Open Website,Отвори уебсайт
+Open in Portal,Отвори в портала
+Or create leads manually,Или създайте потенциални клиенти ръчно
+Organization Logo,Лого на организацията
+Organization is required to create a customer,Организацията е задължителна за създаване на клиент
+Organizer,Организатор
+Other Features,Други функции
+Outbound Call,Изходящо обаждане
+Owner: {0},Отговорник: {0}
+Password cannot be reset by Demo User {},Паролата не може да бъде нулирана от демо потребител {}
+Password is required,Паролата е задължителна
+Password must be at least 8 characters,Паролата трябва да съдържа поне 8 символа
+"Password must contain lowercase, uppercase, number, and symbol","Паролата трябва да съдържа малка буква, главна буква, цифра и символ"
+Password updated successfully,Паролата е обновена успешно
+Passwords match,Паролите съвпадат
+Payment Reminder,Напомняне за плащане
+Payment Reminder from Frappé - (#{{ name }}),Напомняне за плащане от Frappé - (#{{ name }})
+Payment reminder from Frappé - (#{{ name }}),Напомняне за плащане от Frappé - (#{{ name }})
+Pin View,Закачи изглед
+Pinned View,Закачен изглед
+Pinned Views,Закачени изгледи
+Playback Speed,Скорост на възпроизвеждане
+Please check your access token,"Моля, проверете вашия токен за достъп"
+Please enable twilio settings before making a call.,"Моля, активирайте настройките на Twilio преди да осъществите обаждане."
+Please enter a valid URL,"Моля, въведете валиден URL"
+Please enter the {0} Access Key.,"Моля, въведете ключа за достъп на {0}."
+Please fix the errors in the form,"Моля, коригирайте грешките във формата"
+Please provide a reason for marking this {0} as lost,"Моля, посочете причина за маркиране на {0} като загубен(а)"
+Please select a Priority,"Моля, изберете приоритет"
+Please select a currency before saving.,"Моля, изберете валута преди запазване."
+Please select a lead gen form before syncing!,"Моля, изберете формуляр за генериране на потенциални клиенти преди синхронизация!"
+Please select an existing contact,"Моля, изберете съществуващ контакт"
+Please select an existing organization,"Моля, изберете съществуваща организация"
+Please set a mobile number to make calls,"Моля, задайте мобилен номер за осъществяване на обаждания"
+Please set a website to visit,"Моля, задайте уебсайт за посещение"
+Please set an email address to send emails,"Моля, задайте имейл адрес за изпращане на имейли"
+Please setup Exotel intergration,"Моля, настройте интеграцията с Exotel"
+Please specify a reason for losing the deal.,"Моля, посочете причина за загубата на сделката."
+Please specify the reason for losing the deal.,"Моля, посочете причината за загубата на сделката."
+Preferences,Предпочитания
+Preferences Updated Successfully,Предпочитанията са обновени успешно
+Primary Contact Set,Основният контакт е зададен
+Priorities must be unique,Приоритетите трябва да бъдат уникални
+Priority {0}: Priority Name is required,Приоритет {0}: Името на приоритета е задължително
+Priority {0}: Response Time is required,Приоритет {0}: Времето за отговор е задължително
+Private or Public,Лично или публично
+Profile Updated Successfully,Профилът е обновен успешно
+Projected vs actual revenue based on deal probability,Прогнозирани спрямо реални приходи на база вероятност за сделка
+Public View,Публичен изглед
+Public Views,Публични изгледи
+Quick Entry Layout,Оформление за бърз запис
+Quick filters updated successfully,Бързите филтри са обновени успешно
+Record Calls,Записвай обажданията
+Recording URL not found,URL за запис не е намерен
+Reference document {0} {1} does not exist.,Референтен документ {0} {1} не съществува.
+Refresh Apps,Опресни приложенията
+Reject,Отхвърли
+Reject Call,Отхвърли обаждане
+"Reminders will be sent <b>before the event starts</b>, based on the configured time","Напомнянията ще бъдат изпратени <b>преди началото на събитието</b>, въз основа на зададеното време"
+Remove All,Премахни всички
+Remove Column,Премахни колона
+Remove Group,Премахни група
+Remove Image,Премахни изображение
+Remove Photo,Премахни снимка
+Remove Tab,Премахни раздел
+Remove and move columns to {0} section,Премахни и премести колоните в секция {0}
+Remove and move fields to previous column,Премахни и премести полетата в предишната колона
+Reset ERPNext Form Script,Нулирай ERPNext скрипта за формуляр
+Reset to Default,Възстанови по подразбиране
+Response & Follow Up,Отговор и проследяване
+Response Time is required,Времето за отговор е задължително
+Restart the SLA each time the customer replies (status changes to Open) and fulfill it when marked as Replied,"Рестартирай SLA всеки път, когато клиентът отговори (статусът се променя на Отворен) и го изпълни, когато бъде маркиран като Отговорен"
+Restore Defaults,Възстанови настройки по подразбиране
+Retake,Повтори
+Retry Sync,Повтори синхронизацията
+Ringing...,Звъни...
+Rolling Responses,Текущи отговори
+SLA Policies,SLA политики
+SLA Policy Created,SLA политиката е създадена
+SLA Policy Deleted,SLA политиката е изтрита
+SLA Policy Duplicated,SLA политиката е дублирана
+SLA Policy Name is required,Името на SLA политиката е задължително
+SLA Policy Status Updated,Статусът на SLA политиката е обновен
+SLA Policy Updated,SLA политиката е обновена
+SLA set as default cannot be disabled,"SLA, зададено по подразбиране, не може да бъде деактивирано"
+SUBJECT,ТЕМА
+Sales Trend,Тенденция в продажбите
+Sales trend,Тенденция в продажбите
+Salesperson,Търговски представител
+Save Changes,Запази промените
+Saved View,Запазен изглед
+Saved Views,Запазени изгледи
+Schedule a task...,Насрочи задача...
+Schedule an Event,Насрочи събитие
+Search Template,Търси шаблон
+Search User,Търси потребител
+See All Participants,Виж всички участници
+Select Holiday List,Избери списък с почивни дни
+Select Medium,Избери средство
+Select Priority,Избери приоритет
+Select Provider,Избери доставчик
+Select Range,Избери диапазон
+Select Source Type,Избери тип източник
+Select Type,Избери тип
+Select Workday,Избери работен ден
+Select a Twilio App for your CRM,Изберете Twilio приложение за вашия CRM
+Select a Value,Избери стойност
+Select an Option,Избери опция
+Select the assignees for {0}.,Изберете отговорниците за {0}.
+Select the default view for your calendar. This will be the initial view when you open the calendar,Изберете изгледа по подразбиране за вашия календар. Това ще бъде началният изглед при отваряне на календара
+Send Invites,Изпрати покани
+Send Template,Изпрати шаблон
+Send an Email,Изпрати имейл
+Sending comment...,Изпращане на коментар...
+Sending email...,Изпращане на имейл...
+Set As Default,Задай по подразбиране
+Set As Primary,Задай като основен
+Set Currency,Задай валута
+Set Default Priority,Задай приоритет по подразбиране
+Set First Name,Задай собствено име
+Set all as private,Задай всички като лични
+Set all as public,Задай всички като публични
+Set an Organization,Задай организация
+Set as Primary Contact,Задай като основен контакт
+Set as default SLA,Задай като SLA по подразбиране
+Set the Exotel number to be used for outgoing calls.,"Задайте номера на Exotel, който да се използва за изходящи обаждания."
+Set the Twilio number to be used for outgoing calls.,"Задайте номера на Twilio, който да се използва за изходящи обаждания."
+Set the name of your brand. Appears in the left sidebar.,Задайте името на вашата марка. Показва се в лявата странична лента.
+"Set working days, hours, and holidays by selecting a predefined schedule or creating a new one","Задайте работни дни, часове и почивни дни, като изберете предварително зададен график или създадете нов"
+Setting Up,Настройка
+Setting disabled successfully,Настройката е деактивирана успешно
+Setting enabled successfully,Настройката е активирана успешно
+Setting up Frappe Mail requires you to have an API key and API Secret of your email account. Read more,Настройката на Frappe Mail изисква да имате API ключ и API Secret на вашия имейл акаунт. Прочетете повече
+Setting up GMail requires you to enable two factor authentication and app specific passwords. Read more,Настройката на GMail изисква да активирате двуфакторна автентикация и специфични за приложението пароли. Прочетете повече
+Setting up Outlook requires you to enable two factor authentication and app specific passwords. Read more,Настройката на Outlook изисква да активирате двуфакторна автентикация и специфични за приложението пароли. Прочетете повече
+Setting up Sendgrid requires you to enable two factor authentication and app specific passwords. Read more,Настройката на Sendgrid изисква да активирате двуфакторна автентикация и специфични за приложението пароли. Прочетете повече
+Setting up Sparkpost requires you to enable two factor authentication and app specific passwords. Read more,Настройката на Sparkpost изисква да активирате двуфакторна автентикация и специфични за приложението пароли. Прочетете повече
+Setting up Yahoo requires you to enable two factor authentication and app specific passwords. Read more,Настройката на Yahoo изисква да активирате двуфакторна автентикация и специфични за приложението пароли. Прочетете повече
+Setting up Yandex requires you to enable two factor authentication and app specific passwords. Read more,Настройката на Yandex изисква да активирате двуфакторна автентикация и специфични за приложението пароли. Прочетете повече
+"Setup the Exchange Rate Provider other than 'Frankfurter' in settings, as default provider does not support currency conversion for {0} to {1}.","Настройте доставчик на валутни курсове, различен от 'Frankfurter', в настройките, тъй като доставчикът по подразбиране не поддържа конвертиране на валута от {0} към {1}."
+Show Border,Покажи рамка
+Show Label,Покажи етикет
+Show Less,Покажи по-малко
+Show Password,Покажи парола
+"Since you added a new assignee, the {0} has been set to {1}.","Тъй като добавихте нов изпълнител, {0} е зададен на {1}."
+"Since you removed {0} from the assignee, the {0} has also been removed.","Тъй като премахнахте {0} от изпълнителя, {0} също е премахнат."
+"Since you removed {0} from the assignee, the {0} has been changed to the next available assignee {1}.","Тъй като премахнахте {0} от изпълнителя, {0} е променен на следващия наличен изпълнител {1}."
+Some error occurred while creating SLA Policy,Възникна грешка при създаване на SLA политика
+Some error occurred while renaming SLA policy,Възникна грешка при преименуване на SLA политика
+Some error occurred while renaming assignment rule,Възникна грешка при преименуване на правило за възлагане
+Some error occurred while updating SLA policy,Възникна грешка при актуализиране на SLA политика
+Some error occurred while updating assignment rule,Възникна грешка при актуализиране на правило за възлагане
+"Something went wrong, try again later","Нещо се обърка, опитайте отново по-късно"
+Source disabled successfully,Източникът е деактивиран успешно
+Source enabled successfully,Източникът е активиран успешно
+"Standard Form Scripts can not be modified, duplicate the Form Script instead.","Стандартните скриптове за формуляри не могат да бъдат променяни, вместо това дублирайте скрипта за формуляр."
+Standard Views,Стандартни изгледи
+Start & End Time Are Required,Начално и крайно време са задължителни
+Start Date cannot be after end date,Началната дата не може да бъде след крайната дата
+Start Time is required,Началното време е задължително
+Start with sample 10 leads,Започнете с примерни 10 потенциални клиента
+Status is required,Статусът е задължителен
+Subject is required,Темата е задължителна
+Subject: {0},Тема: {0}
+Support / Sales,Поддръжка / Продажби
+"Switch between light, dark, or system theme","Превключване между светла, тъмна или системна тема"
+Switch between outgoing email accounts when sending emails,Превключване между изходящи имейл акаунти при изпращане на имейли
+Sync Successful!,Синхронизацията е успешна!
+"Sync Successful, CRM Lead: {0}!","Синхронизацията е успешна, CRM Потенциален клиент: {0}!"
+"Sync your Contacts, Email and Calendars","Синхронизирайте вашите контакти, имейл и календари"
+Syncing started in background,Синхронизацията започна във фонов режим
+System Configuration,Системна конфигурация
+TO,ДО
+Take a note...,Направете бележка...
+Task created,Задачата е създадена
+Template Deleted Successfully,Шаблонът е изтрит успешно
+Template created successfully,Шаблонът е създаден успешно
+Template disabled successfully,Шаблонът е деактивиран успешно
+Template enabled successfully,Шаблонът е активиран успешно
+Template renamed successfully,Шаблонът е преименуван успешно
+Template updated successfully,Шаблонът е актуализиран успешно
+The Condition '{0}' is invalid: {1},Условието '{0}' е невалидно: {1}
+There can only be one default priority in Priorities table,Може да има само един приоритет по подразбиране в таблицата с приоритети
+These fields are required: {0},Тези полета са задължителни: {0}
+This field is required,Това поле е задължително
+This method is only meant for developer mode,Този метод е предназначен само за режим за разработчици
+This section is not editable,Тази секция не може да се редактира
+"This will delete selected items and items linked to it, are you sure?","Това ще изтрие избраните елементи и свързаните с тях елементи, сигурни ли сте?"
+"This will delete selected items and unlink linked items to it, are you sure?","Това ще изтрие избраните елементи и ще премахне връзката със свързаните елементи, сигурни ли сте?"
+"This will restore (if not exist) all the default statuses, custom fields and layouts. Delete & Restore will delete default layouts and then restore them.","Това ще възстанови (ако не съществуват) всички статуси по подразбиране, персонализирани полета и оформления. Изтрий и възстанови ще изтрие оформленията по подразбиране и след това ще ги възстанови."
+Timezone,Часова зона
+Title is required,Заглавието е задължително
+"To know more about setting up email accounts, click","За да научите повече за настройката на имейл акаунти, кликнете"
+Toggle on for Preview,Включете за преглед
+Took a call with John Doe and discussed the new project.,Проведохме обаждане с John Doe и обсъдихме новия проект.
+Total Leads,Общо потенциални клиенти
+Total leads,Общо потенциални клиенти
+Total number of leads,Общ брой потенциални клиенти
+Total number of non won/lost deals,Общ брой на незечетени/незагубени сделки
+Total number of won deals based on its closure date,Общ брой спечелени сделки на база дата на приключване
+Turn into a Group,Превърни в група
+Twilio API credential creation error.,Грешка при създаване на Twilio API идентификационни данни.
+Twilio Integration Disabled,Twilio интеграцията е деактивирана
+Twilio Settings,Twilio настройки
+Twilio configuration is missing,Twilio конфигурацията липсва
+Type an email address to add attendee,"Въведете имейл адрес, за да добавите участник"
+Type your message here...,Въведете вашето съобщение тук...
+Unable to connect to Twilio account to fetch applications.,Не може да се свърже с Twilio акаунт за извличане на приложения.
+Unassign Conditions are invalid,Условията за премахване на възлагане са невалидни
+Unassignment Condition,Условие за премахване на възлагане
+Unauthorized request,Неоторизирана заявка
+Uncollapsible,Несгъваем
+Ungroup Conditions,Разгрупирай условия
+Unknown telephony medium: {0},Непознат телефонен канал: {0}
+Unlink,Премахни връзка
+Unlink & Delete,Премахни връзка и изтрий
+Unlink & Delete {0} items,Премахни връзка и изтрий {0} елемента
+Unlink All,Премахни всички връзки
+Unlink Linked Item,Премахни връзка на свързан елемент
+Unlink {0} Item(s),Премахни връзка на {0} елемент(а)
+Unpin View,Откачи изглед
+Unsaved Changes,Незапазени промени
+Untitled,Без заглавие
+Update Account,Актуализирай акаунт
+Update the modified timestamp on new email communication & comments for leads & deals,Актуализирай времевия маркер за промяна при нова имейл комуникация и коментари за потенциални клиенти и сделки
+Update {0} Records,Актуализирай {0} записа
+Upload Attachment,Качи прикачен файл
+Upload Document,Качи документ
+Upload Photo,Качи снимка
+Upload Video,Качи видео
+Uploading {0}%,Качване {0}%
+User Management,Управление на потребители
+User with email {0} already exists,Потребител с имейл {0} вече съществува
+User with email {0} already invited,Потребител с имейл {0} вече е поканен
+User {0} cannot be removed as it has a Role Profile assigned to it.,"Потребител {0} не може да бъде премахнат, тъй като има присвоен профил на роля."
+User {0} has been removed,Потребител {0} е премахнат
+User {0} has been removed from CRM roles.,Потребител {0} е премахнат от CRM ролите.
+Users Added Successfully,Потребителите са добавени успешно
+Users are required,Потребителите са задължителни
+Valid conditions are required,Необходими са валидни условия
+View Contact,Преглед на контакт
+View Name,Име на изглед
+Webhook Verify Token,Токен за верификация на Webhook
+Welcome Message,Съобщение за добре дошли
+"Welcome {0}, lets add your first lead","Добре дошли {0}, нека добавим вашия първи потенциален клиент"
+WhatsApp Message,WhatsApp съобщение
+WhatsApp Templates,WhatsApp шаблони
+Where,Където
+"Width can be in number, pixel or rem (eg. 3, 30px, 10rem)","Ширината може да бъде в число, пиксели или rem (напр. 3, 30px, 10rem)"
+Won Deals,Спечелени сделки
+Won deals,Спечелени сделки
+Work Schedule & Holidays,Работен график и почивни дни
+You are not allowed to invite System Managers,Нямате право да каните системни администратори
+You are not permitted to access CRM resources.,Нямате разрешение за достъп до CRM ресурси.
+You are not permitted to access this resource.,Нямате разрешение за достъп до този ресурс.
+You are not permitted to create leads.,Нямате разрешение да създавате потенциални клиенти.
+You are not permitted to update this call log.,Нямате разрешение да актуализирате този дневник на обажданията.
+You can change the default calling medium from the settings,Можете да промените средството за обаждания по подразбиране от настройките
+You can get your Access Key from,Можете да получите вашия ключ за достъп от
+You can invite multiple users by comma separating their email addresses,"Можете да поканите няколко потребители, като разделите имейл адресите им със запетая"
+You cannot remove yourself.,Не можете да премахнете себе си.
+You do not have Exotel Number set in your Telephony Agent,Нямате зададен Exotel номер във вашия телефонен агент
+You do not have enough permissions to access Frappe CRM. Please contact your administrator if you believe this is an error.,"Нямате достатъчно права за достъп до Frappe CRM. Моля, свържете се с вашия администратор, ако смятате, че това е грешка."
+You do not have mobile number set in your Telephony Agent,Нямате зададен мобилен номер във вашия телефонен агент
+You do not have permission to access Frappe CRM,Нямате разрешение за достъп до Frappe CRM
+You do not have permission to access this document,Нямате разрешение за достъп до този документ
+You need to be in developer mode to edit a Standard Form Script,"Трябва да сте в режим за разработчици, за да редактирате стандартен скрипт за формуляр"
+"You will be redirected to invite user page, unsaved changes will be lost.","Ще бъдете пренасочени към страницата за покана на потребител, незапазените промени ще бъдат загубени."
+You will need a Meta developer account and an access token to sync leads from Facebook. Read more,"Ще ви е необходим Meta акаунт за разработчици и токен за достъп, за да синхронизирате потенциални клиенти от Facebook. Прочетете повече"
+Your assignment on task {0} has been removed by {1},Вашето възлагане на задача {0} е премахнато от {1}
+Your old condition will be overwritten. Are you sure you want to save?,"Вашето старо условие ще бъде презаписано. Сигурни ли сте, че искате да запазите?"
+Your old conditions will be overwritten. Are you sure you want to save?,"Вашите стари условия ще бъдат презаписани. Сигурни ли сте, че искате да запазите?"
+added a,добави
+assigned a new task {0} to you,ви възложи нова задача {0}
+assigned a {0} {1} to you,ви възложи {0} {1}
+before at,преди в
+changes from,промени от
+converted the lead to this deal,преобразува потенциалния клиент в тази сделка
+created this deal,създаде тази сделка
+created this lead,създаде този потенциален клиент
+day before,ден преди
+days,дни
+days before,дни преди
+deals,сделки
+has made a call,направи обаждане
+has reached out,се свърза
+hour,час
+hour before,час преди
+hours before,часове преди
+hr,ч
+in 1 hour,след 1 час
+in 1 minute,след 1 минута
+in 1 year,след 1 година
+in {0} M,след {0} М
+in {0} d,след {0} д
+in {0} days,след {0} дни
+in {0} h,след {0} ч
+in {0} hours,след {0} часа
+in {0} m,след {0} м
+in {0} minutes,след {0} минути
+in {0} months,след {0} месеца
+in {0} w,след {0} с
+in {0} weeks,след {0} седмици
+in {0} y,след {0} г
+in {0} years,след {0} години
+leads,потенциални клиенти
+mentioned you in {0},ви спомена в {0}
+minute,минута
+minute before,минута преди
+minutes,минути
+minutes before,минути преди
+option,опция
+previous,предишен
+private,частен
+public,публичен
+received a whatsapp message in {0},получи WhatsApp съобщение в {0}
+tomorrow,утре
+update,актуализация
+value,стойност
+video,видео
+week,седмица
+week before,седмица преди
+weeks,седмици
+weeks before,седмици преди
+"which are not compatible with this UI, you will need to recreate the conditions here if you want to manage and add new conditions from this UI.","които не са съвместими с този интерфейс, ще трябва да пресъздадете условията тук, ако искате да управлявате и добавяте нови условия от този интерфейс."
+{0} (Invalid time format),{0} (Невалиден формат на време)
+{0} assigned a {1} {2} to you,{0} ви възложи {1} {2}
+{0} attendees,{0} участника
+{0} awaiting,{0} в изчакване
+{0} has been granted {1} access,{0} получи {1} достъп
+{0} hrs,{0} ч
+{0} is an Invalid Value,{0} е невалидна стойност
+{0} is an Invalid value,{0} е невалидна стойност
+{0} is an invalid email address,{0} е невалиден имейл адрес
+{0} maybe,{0} може би
+{0} mins,{0} мин
+{0} no,{0} не
+{0} routing,{0} маршрутизиране
+{0} yes,{0} да
+{0} {1} before{2},{0} {1} преди{2}
+"⚠️ Avoid using ""trigger"" as a field name — it conflicts with the built-in trigger() method.","⚠️ Избягвайте използването на ""trigger"" като име на поле — то е в конфликт с вградения метод trigger()."
+"⚠️ Method ""{0}"" not found in class.","⚠️ Методът ""{0}"" не е намерен в класа."
+"⚠️ No class found for doctype: {0}, it is mandatory to have a class for the parent doctype. it can be empty, but it should be present.","⚠️ Не е намерен клас за doctype: {0}, задължително е да има клас за родителския doctype. Може да е празен, но трябва да присъства."
+⚠️ No data found for parent field: {0},⚠️ Не са намерени данни за родителско поле: {0}
+⚠️ No row found for idx: {0} in parent field: {1},⚠️ Не е намерен ред за idx: {0} в родителско поле: {1}
