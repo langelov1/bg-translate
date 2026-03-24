@@ -17780,3 +17780,7 @@ weeks before,седмици преди
 "⚠️ No class found for doctype: {0}, it is mandatory to have a class for the parent doctype. it can be empty, but it should be present.","⚠️ Не е намерен клас за doctype: {0}, задължително е да има клас за родителския doctype. Може да е празен, но трябва да присъства."
 ⚠️ No data found for parent field: {0},⚠️ Не са намерени данни за родителско поле: {0}
 ⚠️ No row found for idx: {0} in parent field: {1},⚠️ Не е намерен ред за idx: {0} в родителско поле: {1}
+Bill to,Получател
+In Words: ,Словом: 
+Sub Total:,Междинна сума:
+Grand Total:,Обща сума:
